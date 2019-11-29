@@ -1,2 +1,2 @@
 # finlitex
-Micro Banking Softwarw
+Micro Banking Softwarware Frontend
