@@ -1,0 +1,2 @@
+# finlitex
+Micro Banking Softwarw
